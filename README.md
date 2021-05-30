@@ -1,4 +1,3 @@
-# webauth161
-Final webpage project for web authoring 161
+Front end development for Beholder's index page. 
 
-https://cavinginrainbows.github.io/webauth161/
+https://cavinginrainbows.github.io/Beholder-Index/
